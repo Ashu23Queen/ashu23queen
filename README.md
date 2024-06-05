@@ -14,5 +14,5 @@ About me
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu23queen&layout=compact)
 
-
+javascript typescript react graphql nodejs
 
