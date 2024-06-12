@@ -14,7 +14,7 @@ About me
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu23queen&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=onedark)](https://github.com/ashu23queen/github-profile-trophy)
 
 
  
