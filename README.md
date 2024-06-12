@@ -13,6 +13,10 @@ About me
 ❤️ I love writing code in css3 mostly for animation.
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu23queen&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
  
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width: 100%;"></a></code>
