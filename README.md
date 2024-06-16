@@ -1,7 +1,7 @@
 # Hi there, I am Ashwini 👋
 
 I'm a self-taught passionate Software developer from India working in MNC
-
+[![pages-build-deployment](https://github.com/Ashu23Queen/repo-pages-fullstack/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Ashu23Queen/repo-pages-fullstack/actions/workflows/pages/pages-build-deployment)
 About me
 
 💼 software Engineer at MNC
