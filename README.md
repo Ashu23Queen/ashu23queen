@@ -13,7 +13,6 @@ About me
 ❤️ I love writing code in css3 mostly for animation.
 
 ![](https://komarev.com/ghpvc/?username=your-github-ashu23queen)
-
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu23queen&layout=compact)
 
