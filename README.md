@@ -2,7 +2,7 @@
 
 ❤️ I'm a self-taught passionate Software developer from India working in MNC
  
-About me
+# About me
 
 💼 software Engineer at MNC
 
