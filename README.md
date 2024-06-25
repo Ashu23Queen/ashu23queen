@@ -1,6 +1,6 @@
 # Hi there, I am Ashwini 👋
 
-❤️ I'm a self-taught passionate Software developer from India working in MNC
+❤️ I'm a self-taught passionate Software developer from India working as a Software engineer
  
 # About me
 
