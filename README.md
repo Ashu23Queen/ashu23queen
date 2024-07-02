@@ -8,7 +8,7 @@
 
 📈 Built portfolio-website-react on GitHub
 
-❤️ I love writing code, and building fun experiments.
+❤️ I love writing code, and building fun experiments. 
 
 ❤️ I love writing code in css3 mostly for animation.
 
