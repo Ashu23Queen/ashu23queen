@@ -3,7 +3,7 @@
  
 # About me
 
-💼 software Engineer at MNC  
+💼 software Engineer at MNC   
 
 📈 Built portfolio-website-react on GitHub
 
