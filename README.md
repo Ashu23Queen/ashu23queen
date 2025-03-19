@@ -5,13 +5,8 @@
 # About me 
 
 💼 software Engineer at MNC    
-
-❤️ I love writing code, and building fun experiments. 
-
   
-![](https://komarev.com/ghpvc/?username=your-github-ashu23queen)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu23queen&layout=compact)
+![](https://komarev.com/ghpvc/?username=your-github-ashu23queen) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=onedark)](https://github.com/ashu23queen/github-profile-trophy)
 
