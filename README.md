@@ -4,7 +4,7 @@
   
 # About me 
 
-💼 software Engineer at MNC 
+💼 Software Engineer at MNC 
 
 ![](https://komarev.com/ghpvc/?username=your-github-ashu23queen) 
 
