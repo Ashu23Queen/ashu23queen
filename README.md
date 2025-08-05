@@ -1,6 +1,6 @@
 🙋🏻‍♀️ I am Ashwini 
  
-# About me 
+# About Me 
   
 ❤️ Software developer from India working as a Senior Software engineer <br/> 
 💼 Software Engineer at MNC 
