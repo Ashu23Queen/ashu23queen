@@ -2,7 +2,7 @@
  
 # About Me 
   
-❤️ Software developer from India working as a Senior Software engineer <br/> 
+❤️ Software developer from India working as a Senior Software engineer <br/> <br/>
 💼 Software Engineer at MNC 
   
 ![](https://komarev.com/ghpvc/?username=your-github-ashu23queen) 
