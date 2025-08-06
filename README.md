@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashwini!
+### 👋 Hi, I'm Ashwini!
 
 ❤️ Senior Software Engineer from India  
 💼 Passionate about building scalable software solutions  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Skills
+#### 🚀 Skills
 
 - **Languages:** Python, JavaScript, SQL
 - **Specialty:** Machine Learning, Data Engineering
@@ -14,14 +14,14 @@
 
 ---
 
-## 🛠️ Projects
+#### 🛠️ Projects
 
 - [`SQL-Challenge`](https://github.com/Ashu23Queen/SQL-Challenge): Hands-on SQL problems and solutions.
 - [`Machine-Learning-I`](https://github.com/Ashu23Queen/Machine-Learning-I): Machine learning experiments and projects.
 
 ---
 
-## 🏆 Achievements
+#### 🏆 Achievements
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=juicyfresh)
 
