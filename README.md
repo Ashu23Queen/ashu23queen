@@ -25,12 +25,7 @@
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=juicyfresh)
 
----
-
-## 📈 GitHub Stats
-
-![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu23queen&show_icons=true&theme=radical)
-
+ 
 ---
 
 ## 🙋🏻‍♀️ About Me
