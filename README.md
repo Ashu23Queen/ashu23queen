@@ -1,11 +1,45 @@
-🙋🏻‍♀️ I am Ashwini 
- 
-# About Me 
-  
-❤️ Software developer from India working as a Senior Software engineer <br/> <br/>
-💼 Software Engineer at MNC <br/><br/>
-  
+# 👋 Hi, I'm Ashwini!
+
+❤️ Senior Software Engineer from India  
+💼 Passionate about building scalable software solutions  
+🌱 Always learning new tech and sharing knowledge
+
+---
+
+## 🚀 Skills
+
+- **Languages:** Python, JavaScript, SQL
+- **Specialty:** Machine Learning, Data Engineering
+- **Other:** Problem Solving, System Design
+
+---
+
+## 🛠️ Projects
+
+- [`SQL-Challenge`](https://github.com/Ashu23Queen/SQL-Challenge): Hands-on SQL problems and solutions.
+- [`Machine-Learning-I`](https://github.com/Ashu23Queen/Machine-Learning-I): Machine learning experiments and projects.
+
+---
+
+## 🏆 Achievements
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=juicyfresh)
+
+---
+
+## 📈 GitHub Stats
+
+![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu23queen&show_icons=true&theme=radical)
+
+---
+
+## 🙋🏻‍♀️ About Me
+
+I'm a dedicated software developer, currently working as a Senior Software Engineer at an MNC.  
+I love solving challenging problems, learning new technologies, and collaborating with developers worldwide.
+
+--- 
+
 ![](https://komarev.com/ghpvc/?username=your-github-ashu23queen) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=juicyfresh
-)](https://github.com/ashu23queen/github-profile-trophy)
+ 
