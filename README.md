@@ -8,7 +8,7 @@
 
 #### 🚀 Skills
 
-- **Languages:** Python, JavaScript, SQL
+- **Languages:** Python, JavaScript, MySQL, Pandas
 - **Specialty:** Machine Learning, Data Engineering
 - **Other:** Problem Solving, System Design
 
