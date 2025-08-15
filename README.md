@@ -25,7 +25,7 @@
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=juicyfresh)
   
- 
+    
 ---
 
 ## 🙋🏻‍♀️ About Me
