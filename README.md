@@ -33,8 +33,6 @@
 I'm a dedicated software developer, currently working as a Senior Software Engineer at an MNC.  
 I love solving challenging problems, learning new technologies, and collaborating with developers worldwide.
 
---- 
-
-![](https://komarev.com/ghpvc/?username=your-github-ashu23queen) 
-
+ 
+ 
  
