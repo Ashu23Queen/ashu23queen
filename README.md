@@ -8,7 +8,7 @@
 
 #### 🚀 Skills
 
-- **Languages:** Python, JavaScript, MySQL, Pandas
+- **Languages:** Python, JavaScript, MySQL, Pandas, Genrative AI
 - **Specialty:** Machine Learning, Data Engineering
 - **Other:** Problem Solving, System Design
 
