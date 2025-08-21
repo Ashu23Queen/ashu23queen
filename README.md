@@ -10,7 +10,7 @@
 
 - **Languages:** Python, JavaScript, MySQL, Pandas, Genrative AI
 - **Specialty:** Machine Learning, Data Engineering, Python creative projects
-- **Other:** Problem Solving, System Design
+- **Other:** Problem Solving, System Design 
 
 ---
 
