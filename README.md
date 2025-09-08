@@ -30,7 +30,7 @@
 
 ## 🙋🏻‍♀️ About Me 
 
-I'm a dedicated software developer, currently working as a Senior Software Engineer at an MNC.  
+I'm a dedicated software developer, currently working as a Senior Software Engineer at an MNC.   
 I love solving challenging problems, learning new technologies, and collaborating with developers worldwide.
  
  
