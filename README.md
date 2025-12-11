@@ -18,6 +18,7 @@
   
 - [`SQL-Challenge`](https://github.com/Ashu23Queen/SQL-Challenge): Hands-on SQL problems and solutions.
 - [`Machine-Learning-I`](https://github.com/Ashu23Queen/Machine-Learning-I): Machine learning experiments and projects.
+- [`Inferential Statistics`](): 
 
 ----
 
