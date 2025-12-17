@@ -25,7 +25,9 @@
 
 #### 🏆 Achievements  
  
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=juicyfresh)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=onedark)
+
+
   
     
 ---
