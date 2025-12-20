@@ -21,7 +21,7 @@
 - [`Inferential Statistics`](https://github.com/Ashu23Queen/inferential-statistics-projects): Make inferences and draw conclusions about a large population
   - `Performing Statistical Tests` - Comparing Means (Numerical Data), Comparing Categorical Data, Modeling Relationships, Non-Parametric Tests
 
-----
+-----
 
 #### 🏆 Achievements  
  
