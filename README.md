@@ -8,7 +8,7 @@
 
 #### 🚀 Skills
 
-- **Languages:** Python, JavaScript, MySQL, Pandas, Genrative AI.
+- **Languages:** Python, JavaScript, MySQL, Pandas, Genrative AI.  
 - **Specialty:** Inferential Statistics, Machine Learning, Data Engineering, Python creative projects.
 - **Other:** Problem Solving, Sampling Techniques, Confidence Intervals, Margin of Error, Hypothesis Testing.
 
