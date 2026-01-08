@@ -2,7 +2,8 @@
 ## $${\color{blue} 👋Hi, \space I'm  \space \color{blue} Ashwini !\space \color{blue} \space  }$$  
 ❤️ Senior Software Engineer from India.      
 💼 Passionate about building scalable software solutions.     
- 
+🔭 I’m currently sharpening my problem-solving skills on **LeetCode**.
+
  
 -----     
 
