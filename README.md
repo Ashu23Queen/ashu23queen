@@ -15,7 +15,7 @@
 - **Specialty:** Inferential Statistics, Machine Learning, Data Engineering, Python creative projects.
 - **Other:** Problem Solving, Sampling Techniques, Confidence Intervals, Margin of Error, Hypothesis Testing.
 - **Designing** Web, Mobile Apps
-- **Development**
+- **Development** Chatbots
 
 -----
 
