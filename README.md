@@ -3,7 +3,7 @@
 ❤️ Senior Software Engineer from India.      
 💼 Passionate about building scalable software solutions.     
 🔭 I’m currently sharpening my problem-solving skills on **LeetCode**.    
-🎓 Learning about Data Structures and Algorithms (DSA). 
+🎓 Learning about Data Structures and Algorithms (DSA).    
 
 
  
