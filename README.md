@@ -29,9 +29,7 @@
 
 #### 🏆 Achievements  
  
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ashu23queen&theme=onedark)
-    
----
+----
 
 
 ## 🙋🏻‍♀️ About Me 
