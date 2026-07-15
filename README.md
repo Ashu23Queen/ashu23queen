@@ -2,7 +2,7 @@
 ## $${\color{blue} 👋Hi, \space I'm  \space \color{blue} Ashwini !\space \color{blue} \space  }$$  
 ❤️ Senior Software Engineer from India.      
 💼 Passionate about building scalable software solutions.      
-🎓 Learning about Data Structures and Algorithms (DSA).    
+🎓 Learning about Data Structures and Algorithms (DSA).   
 
 
  
