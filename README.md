@@ -10,7 +10,7 @@
 
 #### 🚀 Skills
 
-- **Languages:** Python, JavaScript, MySQL, Pandas, Genrative AI.  
+- **Languages:** Python, JavaScript, MySQL, Pandas, Genrative AI, FastApi, Docker.
 - **Specialty:** Inferential Statistics, Machine Learning, Data Engineering, Python creative projects.
 - **Other:** Problem Solving, Sampling Techniques, Confidence Intervals, Margin of Error, Hypothesis Testing.
 - **Designing** Web, Mobile Apps
