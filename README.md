@@ -3,8 +3,6 @@
 💼 Passionate about building scalable software solutions.      
 🎓 Learning about Data Structures and Algorithms (DSA).   
 
-
- 
 -----     
 
 #### 🚀 Skills
