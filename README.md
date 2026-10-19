@@ -3,15 +3,17 @@
 💼 Passionate about building scalable software solutions.      
 🎓 Learning about FastAPI.   
 
------     
+-----
 
-#### 🚀 Skills
+### 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, FastApi, Docker, JavaScript, MySQL, Pandas, Genrative AI.
-- **Specialty:** Python app, Inferential Statistics, Machine Learning, Data Engineering, Python creative projects.
-- **Other:** Problem Solving, Sampling Techniques, Confidence Intervals, Margin of Error, Hypothesis Testing.
-- **Designing** Web, Mobile Apps UI, Chatbot UI.
-- **Development** Chatbots
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Data Science & ML** | Python, Scikit-Learn, TensorFlow, PyTorch, Pandas, NumPy, SQL |
+| **Generative AI & LLMs** | LangChain, Hugging Face, OpenAI APIs, RAG Architectures, Prompt Engineering |
+| **UI/UX & Design** | Figma, Adobe XD, Wireframing, User Research, Prototyping, Design Systems |
+| **Chatbot Development** | Conversational UI Design, Dialogflow, Custom Streamlit/Gradio Apps, React Chat UIs |
+| **Development & Tools** | Git, GitHub, Docker, Jupyter Notebooks, VS Code |
 
 -----
 
