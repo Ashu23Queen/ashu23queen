@@ -2,7 +2,7 @@
 ❤️ Senior Software Engineer from India.      
 💼 Passionate about building scalable software solutions.      
 🎓 Learning about FastAPI.   
-
+ 
 -----
 
 ### 🛠️ Tech Stack & Skills
