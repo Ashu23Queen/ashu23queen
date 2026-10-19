@@ -17,6 +17,14 @@
 
 -----
 
+### 💡 What I Do Best
+
+- **Translating Complex Data:** Turning intricate machine learning models and data pipelines into seamless, interactive web applications and user interfaces.
+- **Conversational AI & Chatbot UI:** Designing frictionless conversational flows, error states, and responsive chat layouts that make interacting with LLMs feel natural and engaging.
+- **End-to-End Solutions:** Handling everything from exploratory data analysis and model training to front-end prototyping and deployment.
+
+---
+
 #### 🛠️ Projects
   
 - [`SQL-Challenge`](https://github.com/Ashu23Queen/SQL-Challenge): Hands-on SQL problems and solutions.
