@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Technologies & Tools |
+
 | :--- | :--- |
 | **Data Science & ML** | Python, Scikit-Learn, TensorFlow, PyTorch, Pandas, NumPy, SQL |
 | **Generative AI & LLMs** | LangChain, Hugging Face, OpenAI APIs, RAG Architectures, Prompt Engineering |
