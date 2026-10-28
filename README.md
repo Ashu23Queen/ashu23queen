@@ -8,7 +8,7 @@
 
 -----
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills 
 
 | Category | Technologies & Tools |
 | :--- | :--- |
