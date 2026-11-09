@@ -16,7 +16,7 @@
 | **Generative AI & LLMs** | LangChain, Hugging Face, OpenAI APIs, RAG Architectures, Prompt Engineering |
 | **UI/UX & Design** | Figma, Adobe XD, Wireframing, User Research, Prototyping, Design Systems |
 | **Chatbot Development** | Conversational UI Design, Dialogflow, Custom Streamlit/Gradio Apps, React Chat UIs |
-| **Development & Tools** | Git, GitHub, Docker, Jupyter Notebooks, VS Code |
+| **Development & Tools** | Git, GitHub, Docker, Jupyter Notebooks, VS code |
 
 -----
 
