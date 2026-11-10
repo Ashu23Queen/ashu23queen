@@ -43,6 +43,6 @@
 
 I'm a dedicated software developer, currently working as a Senior Software Engineer at an MNC.   
 I love solving challenging problems, learning new technologies, and collaborating with developers worldwide.
-
+I specialize in turning raw data into actionable insights and bridging the gap between backend analytical models and intuitive user applications.
 
  
