@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=200&section=header&text=👋Hi,%20I'm%20Ashwini&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <p align="center">
-    <em>An amazing project that solves complex problems with elegance and speed.</em>
-  </p>  
+   </p>  
 </div>
 
 -----
